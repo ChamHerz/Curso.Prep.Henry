@@ -1,0 +1,9 @@
+Variables: Estacio en memoria para alamacenar datos que luego seran utilizado. 
+
+Strings: tipo de datos cadena de texto o caracteres.
+
+Funciones: Porcion de codigo que sera reutilizado cada vez que se llame. Puede pasarse argumentos que sera variables inicializadas en las funciones. Return es una palabra reservada que se utiliza en la funciones para finalizar y devolver un valor.
+
+Declaraciones if: Instruccion de cotrol de flujo condicional. Si la condicion es verdadera ejecuta el cogido de lo contrario si es falso ejecuta else.
+
+Valores booleanos: tipo de datos logico binario. Solo puede tener dos estados true o false.  
