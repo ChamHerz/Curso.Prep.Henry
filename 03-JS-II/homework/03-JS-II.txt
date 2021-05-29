@@ -1,0 +1,7 @@
+for: es un bucle que se utiliza para realizar un tarea repititiva n cantidad veces prestablecidas .
+
+&&: es un operador lógico. "Y" o "AND" compara dos expresiones y devuelve true unicamente si las dos expresiones son verdaderas.
+
+||: es un operador lógico. "O" o "OR" compara dos expresiones y devuelve false unicamente si ambas expresiones son falsas.
+
+!: es un operador lógico, "NO" o "NOT" devuelve lo contrario a lo evaluado. 
