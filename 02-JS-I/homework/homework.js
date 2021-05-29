@@ -94,20 +94,14 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2==0){
-  return true;
-  }
-  return false;
+  return num % 2 === 0;
 }
 
 function esImpar(num) {
   // Devuelve "true" si "num" es impar
   // De lo contrario, devuelve "false"
   // Tu código:
-  if (num%2!=0){
-    return true;
-  }
-  return false;
+  return num % 2 !== 0;
 }
 
 function elevarAlCuadrado(num) {
@@ -148,7 +142,7 @@ function numeroRandom() {
 }
 
 function esPositivo(numero) {
-  //La función va a recibir un entero. Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo. 
+  //La función va a recibir un entero. Devuelve como resultado una cadena de texto que indica si el número es positivo o negativo.
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
@@ -211,14 +205,14 @@ function deEuroAdolar(euro){
 
 
 function esVocal(letra) {
-  //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”. 
-  //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle 
+  //Escribe una función que reciba una letra y, si es una vocal, muestre el mensaje “Es vocal”.
+  //Verificar si el usuario ingresó un string de más de un carácter y, en ese caso, informarle
   //que no se puede procesar el dato mediante el mensaje "Dato incorrecto".
   //Escribe tu código aquí
 
   if (letra.length>1) return 'Dato incorrecto';
-  if(letra == "a" || letra == "e" || letra == "i" || letra == "o" || letra == "u") return "Es vocal";
-  }
+  if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") return "Es vocal";
+}
 
 
 
