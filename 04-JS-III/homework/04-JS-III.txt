@@ -1,0 +1,3 @@
+Arrays: Son listas de elementos y estos elementos pueden ser de cualquier tipo.
+Se declara entre corchetes y se separan los elementos entre comas.
+Se accede mediante un índice que comienza con el número 0.
