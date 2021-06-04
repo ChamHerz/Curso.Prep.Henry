@@ -1,0 +1,11 @@
+Objeto: Colección de propiedades. Es un arreglo de pares clave valor, donde la clave y el valor pueden ser de cualquier tipo.
+
+Propiedades: Son atributos o metodos declarados dentro un objeto y están formados por la asociación del par clave valor.
+
+Atributo: Propiedades declaradas dentro de un objeto que no son funciones.
+
+Métodos: Son propiedades declaradas como funciones dentro de un objeto.
+
+Bucle for..in: Lo que un "for" es a un "array" un "for..in" lo es a un objeto. Se utiliza para recorrer un objeto. 
+
+Notación por puntos y por corchetes: la notación por puntos es más fácil acceder a una propiedad. La notación por corchetes se utiliza para escribir variables en el lugar de la propiedad.
