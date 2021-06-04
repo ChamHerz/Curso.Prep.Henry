@@ -1,4 +1,6 @@
-Objeto: Colección de propiedades. Es un arreglo de pares clave valor, donde la clave y el valor pueden ser de cualquier tipo.
+// MAL Objeto: Colección de propiedades. Es un arreglo de pares clave valor, donde la clave y el valor pueden ser de cualquier tipo.
+Objeto: es la instancia de una clase. Una clase es un tipo compuesto por propiedades y metodos. El objeto es un estado
+particular de ese tipo clase.
 
 Propiedades: Son atributos o metodos declarados dentro un objeto y están formados por la asociación del par clave valor.
 
@@ -8,4 +10,5 @@ Métodos: Son propiedades declaradas como funciones dentro de un objeto.
 
 Bucle for..in: Lo que un "for" es a un "array" un "for..in" lo es a un objeto. Se utiliza para recorrer un objeto. 
 
-Notación por puntos y por corchetes: la notación por puntos es más fácil acceder a una propiedad. La notación por corchetes se utiliza para escribir variables en el lugar de la propiedad.
+Notación por puntos y por corchetes: la notación por puntos es más fácil acceder a una propiedad.
+La notación por corchetes se utiliza para escribir variables en el lugar de la propiedad.
